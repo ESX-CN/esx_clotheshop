@@ -1,35 +1,38 @@
 # esx_clotheshop
 
-## Requirements
-- [esx_skin](https://github.com/ESX-Org/esx_clotheshop)
+## 说明
+- 这个插件不适用于官方ESX
+- 这是基于魔改版修改的版本
+- 如有使用问题请添加qq群：208486207
+- 点击链接加入群【FiveM中文网官方群】：https://jq.qq.com/?_wv=1027&k=5BOQycm
 
-## Download & Installation
+## 要求
+- [esx_skin](https://github.com/ESX-CN/esx_clotheshop)
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_clotheshop
-```
+## 下载 & 安装
 
-### Using Git
+### 使用 Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_clotheshop [esx]/esx_clotheshop
+git clone https://github.com/ESX-CN/esx_clotheshop [esx]/esx_clotheshop
 ```
 
-### Manually
-- Download https://github.com/ESX-Org/esx_clotheshop/archive/master.zip
-- Put it in the `[esx]` directory
+### 手动
+- 下载 https://github.com/ESX-CN/esx_clotheshop/archive/master.zip
+- 解压至 `[esx]` 目录
 
-## Installation
-- Add this in your `server.cfg`:
+## 安装
+- 添加如下设置至 `server.cfg`:
 
 ```
 start esx_clotheshop
 ```
+## 更新记录
+- [2018-12-16] 汉化简繁英自适应
 
 # Legal
 ### License
-esx_clotheshop - clothing store
+esx_clotheshop - 服装店
 
 Copyright (C) 2015-2018 Jérémie N'gadi
 
