@@ -234,3 +234,8 @@ Citizen.CreateThread(function()
 		end
 	end
 end)
+
+RegisterNetEvent('esx:showCShopNotification')
+AddEventHandler('esx:showCShopNotification', function(msg,...)
+	ESX.ShowNotification(_U(msg,...))
+end)
