@@ -1,4 +1,4 @@
-Locales['cn'] = {
+Locales['sc'] = {
 	['valid_this_purchase'] = '确认购买吗？',
 	['yes'] = '确认',
 	['no'] = '取消',
