@@ -5,9 +5,8 @@
 - 这是基于魔改版修改的版本
 - 如有使用问题请添加qq群：208486207
 - 点击链接加入群【FiveM中文网官方群】：https://jq.qq.com/?_wv=1027&k=5BOQycm
-
 ## 要求
-- [esx_skin](https://github.com/ESX-CN/esx_clotheshop)
+- [esx_skin](https://github.com/ESX-CN/esx_skin)
 
 ## 下载 & 安装
 
